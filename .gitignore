@@ -1,0 +1,4 @@
+squashfs-root
+runtime/plugged
+runtime/undo
+runtime/backup
