@@ -1,4 +1,8 @@
 squashfs-root
-runtime/plugged
-runtime/undo
-runtime/backup
+runtime/nvim/plugged
+runtime/nvim/undo
+runtime/nvim/backup
+runtime/zsh
+!runtime/zsh/.zshrc
+tmp
+
